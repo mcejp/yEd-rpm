@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=yEd
+Comment=Edit graphml files in yed
+Exec=java -jar /opt/yEd/yed.jar %u
+Terminal=false
+Type=Application
+Icon=/opt/yEd/icons/yed128.png
+Categories=Application;Office
+StartupNotify=false
+MimeType=application/xml;
+NoDisplay=false
